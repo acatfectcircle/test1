@@ -1,0 +1,3 @@
+git clone --recursive test1.git
+cd test1
+gradlew build
